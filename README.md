@@ -10,9 +10,9 @@ Notebooks/: Jupyter Notebooks containing code for data analysis and visualizatio
 
 Resources/: Data files used in the analysis.
 
-1430_cluster_centroids.csv: CSV file containing the centroids of the clusters obtained from k-means clustering.
+1###_cluster_centroids_##.csv: CSV file containing the centroids of the clusters obtained from k-means clustering, with the first number corresponding to the facility location and the last number corresponding to the number of clusters produced. 
 
-1430_clustered_stops.csv: CSV file containing every stop with its corresponding cluster label.
+1###_clustered_stops_##.csv: CSV file containing every stop with its corresponding cluster label, with the first number corresponding to the facility location and the last number corresponding to the number of clusters produced. 
 
 README.md: This file, providing an overview of the repository.
 
